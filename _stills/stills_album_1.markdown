@@ -4,7 +4,7 @@ title:  "Portraits of China"
 date:   2018-10-30 13:05:30 +0700
 image:
 - portrait1.JPG
-- portrait2.JPG
+- portrait2.jpg
 - portrait7.JPG
 image-alt:
 - Alt text for image 1
