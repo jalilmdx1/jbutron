@@ -185,11 +185,15 @@ HOME PAGE
   }
 
   &.reel {
-    margin-bottom: $gutter * 5/3;
+    margin-bottom: $gutter * 2.5;
 
     @include media-query($screen-md) {
-      margin-bottom: $gutter * 4/3;
+      margin-bottom: $gutter * 2;
     }  
+
+    @include media-query($screen-md) {
+      margin-bottom: $gutter * 1.5;
+    }      
   }  
 }
 
