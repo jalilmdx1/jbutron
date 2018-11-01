@@ -6,13 +6,10 @@ layout: default
 
   {%- if site.reels.size > 0 -%}
       {%- for reel in site.reels -%}
-      <div class="home-project-wrapper">
-	    <div class="video-wrapper">
-	      <iframe src="https://player.vimeo.com/video/{{ reel.vimeo_id }}?color=f5f7f7&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-	    </div>
-		<div class="home-project-title">
-		  {{ reel.title }}
-		</div>
+      <div class="home-project-wrapper reel">
+  	    <div class="video-wrapper">
+  	      <iframe src="https://player.vimeo.com/video/{{ reel.vimeo_id }}?color=f5f7f7&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  	    </div>
       </div>
       {%- endfor -%}
   {%- endif -%}

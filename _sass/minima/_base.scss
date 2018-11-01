@@ -68,7 +68,7 @@ BASE WRAPPERS
 }
 
 .page-wrapper {
-  padding: $gutter 0;
+  padding: 0;
   flex: 1;
 }
 
@@ -179,7 +179,7 @@ a {
 }
 
 a[class*="no-underline"] {
-  position: auto;
+  position: inherit;
 
   &:after, &:visited:after {
     height: none;
@@ -198,15 +198,11 @@ PREV NEXT LINKS
 .prevnext {
   text-align: center;
   margin: 0 auto;
-  padding: ($gutter * 3) 0 $gutter; 
+  padding: $gutter 0; 
 
   @include media-query($screen-md) {
-    padding: ($gutter * 2) 0 0;
+    padding: $gutter 0 0;
   }
-
-  @include media-query($screen-sm) {
-    padding: ($gutter) 0 0;
-  }  
 }
 
 .prev-link, .next-link {
