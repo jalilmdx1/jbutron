@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Markor's Furniture"
+permalink: markors_furniture
+cover_image: home-placeholder-1.jpeg
+vimeo_id:
+- 303643867
+- 303643817
+- 303643731
+- 303643644
+screenshot:
+- home-placeholder-1.jpeg
+- home-placeholder-2.jpeg
+screenshot-alt:
+- Alt text for screenshot 1
+- Alt text for screenshot 2
+---
+
+Director: Lucia Shen
+<br>Production: 当下频道
+<br>Alexa Mini | Arri Master Primes

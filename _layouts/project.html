@@ -8,7 +8,9 @@ layout: default
 
     {%- include project_video.html -%}
 
-    {%- include project_screenshots.html -%}
+    {%- if page.screenshot -%}
+      {%- include project_screenshots.html -%}
+    {%- endif -%}
 
   </div><!-- .project-media-wrapper -->
 

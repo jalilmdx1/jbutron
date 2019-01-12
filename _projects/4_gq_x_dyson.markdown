@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "Project 2"
-date:   2018-10-30 13:05:30 +0700
-cover_image: home-placeholder-2.jpeg
+title:  "GQ x Dyson"
+permalink: gq_x_dyson
+cover_image: home-placeholder-4.jpeg
 vimeo_id: 259139951
 screenshot:
 - home-placeholder-1.jpeg
