@@ -3,7 +3,7 @@ layout: stills-album
 title:  "The Portrait Collection"
 permalink: theportraitcollection
 image:
-- portraits_of_china/portrait5.JPG
+- portraits_of_china/portrait5.jpg
 - portraits_of_china/portrait3.jpg
 - portraits_of_china/portrait7.jpg
 - portraits_of_china/portrait8.jpg
