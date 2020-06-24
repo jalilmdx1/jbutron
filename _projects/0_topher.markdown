@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "Markor's Furniture"
-permalink: markors_furniture
-cover_image: markors/markor1.jpg
+title:  "TopHer"
+permalink: topher
+cover_image: markors/markor6.jpg
 vimeo_id:
 - 303643867
 - 303643817

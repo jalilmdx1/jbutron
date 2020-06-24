@@ -4,9 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-
-![ext](jalilmdx1.github.io/assets/profilephoto1.jpg)
-
 # Hello&Welcome
 
 _We cross borders every day. When leaving our house, going to work, chatting with 
