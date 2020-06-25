@@ -18,9 +18,11 @@ image:
 - japan/japan15.jpg
 - japan/japan16.jpg
 - japan/japan17.jpg
+- japan/japan20.jpg
 - japan/japan2.jpg
 - japan/japan18.jpg
 - japan/japan19.jpg
+- japan/japan21.jpg
 
 
 image-alt:
