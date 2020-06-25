@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "WeWork"
-permalink: wework
-cover_image: home-placeholder-3.jpeg
+title:  "Michelin"
+permalink: michelin
+cover_image: home-placeholder-2.jpeg
 vimeo_id:
 - 259139951
 screenshot:
@@ -23,4 +23,4 @@ screenshot-alt:
 
 Director: Lucia Shen
 <br>Production: 当下频道
-<br>Alexa Mini | Arri Master Primes
+<br>C300 Mark II | Canon L-Series | Zeiss Milvus 50mm | Rokinon 14mm

@@ -3,13 +3,17 @@ layout: stills-album
 title:  "Fashion"
 permalink: fashion
 image:
-- portraits_of_china/portrait1.JPG
-- portraits_of_china/portrait2.jpg
-- portraits_of_china/portrait7.JPG
+- editorial/editorial3.JPG
+- editorial/editorial5.JPG
+- editorial/editorial7.JPG
+- editorial/editorial6.JPG
+- editorial/editorial4.JPG
+- editorial/editorial2.JPG
+
 image-alt:
 - Alt text for image 1
 - Alt text for image 2
-- Alt text for image 3
+- No shoes on the bed
 ---
 
 Text goes here
