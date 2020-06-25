@@ -3,12 +3,12 @@ layout: stills-album
 title:  "Fashion"
 permalink: fashion
 image:
-- editorial/editorial3.JPG
-- editorial/editorial5.JPG
-- editorial/editorial7.JPG
-- editorial/editorial6.JPG
-- editorial/editorial4.JPG
-- editorial/editorial2.JPG
+- editorial/editorial3.jpg
+- editorial/editorial5.jpg
+- editorial/editorial7.jpg
+- editorial/editorial6.jpg
+- editorial/editorial4.jpg
+- editorial/editorial2.jpg
 
 image-alt:
 - Alt text for image 1
