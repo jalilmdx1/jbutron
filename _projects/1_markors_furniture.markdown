@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Markor's Furniture"
+title:  "The Blanket Series"
 permalink: markors_furniture
 cover_image: markors/markor1.jpg
 vimeo_id:
@@ -26,6 +26,7 @@ screenshot-alt:
 - Alt text for screenshot 2
 ---
 
+Client: Markor Furnishings<br>
 Director: Lucia Shen
 <br>Production: 当下频道
 <br>Alexa Mini | Arri Master Primes

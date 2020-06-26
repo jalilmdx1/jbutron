@@ -1,9 +1,12 @@
 ---
 layout: project
-title:  "GQ x Dyson"
-permalink: gq_x_dyson
-cover_image: home-placeholder-4.jpeg
-vimeo_id: 259139951
+title:  "Supersonic Hair Lab"
+permalink: gqdyson
+cover_image: home-placeholder-2.jpeg
+vimeo_id: 
+- 302974760
+- 303635347
+- 302975157
 screenshot:
 - home-placeholder-1.jpeg
 - home-placeholder-2.jpeg
@@ -20,8 +23,7 @@ screenshot-alt:
 - Alt text for screenshot 6
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Client: GQ & Dyson<br>
+Director: Lucia Shen<br>
+Production: 当下频道<br>
+Sony FS7 | Zeiss CP2's

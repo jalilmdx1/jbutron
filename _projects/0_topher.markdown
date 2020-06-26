@@ -2,7 +2,7 @@
 layout: project
 title:  "TopHer"
 permalink: topher
-cover_image: markors/markor6.jpg
+cover_image: home-placeholder-2.jpeg
 vimeo_id:
 - 303643867
 - 303643817
@@ -24,6 +24,7 @@ screenshot-alt:
 - Alt text for screenshot 2
 ---
 
-Director: Lucia Shen
+Client: Medela<br>
+Director: Cham Lau
 <br>Production: 当下频道
-<br>Alexa Mini | Arri Master Primes
+<br>Alexa Mini | Arri Ultra Primes

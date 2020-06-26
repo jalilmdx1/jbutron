@@ -21,6 +21,8 @@ screenshot-alt:
 - Alt text for screenshot 6
 ---
 
-Director: Lucia Shen
+
+Client: Michelin<br>
+Director: Cham Lau
 <br>Production: 当下频道
-<br>C300 Mark II | Canon L-Series | Zeiss Milvus 50mm | Rokinon 14mm
+<br>Alexa Mini | Arri Ultra Primes

@@ -11,7 +11,6 @@ image:
 - portraits_of_china/portrait6.jpg
 - portraits_of_china/portrait4.jpg
 - portraits_of_china/portrait11.JPG
-- portraits_of_china/portrait10.jpg
 - portraits_of_china/portrait1.jpg
 image-alt:
 - Alt text for image 1
