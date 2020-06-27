@@ -2,22 +2,19 @@
 layout: project
 title:  "TopHer"
 permalink: topher
-cover_image: home-placeholder-2.jpeg
+cover_image: topher/topher1.jpg
 vimeo_id:
 - 303643867
-- 303643817
-- 303643731
-- 303643644
+
 screenshot:
-- markors/markor1.jpg
-- markors/markor11.jpg
-- markors/markor3.jpg
-- markors/markor4.jpg
-- markors/markor6.jpg
-- markors/markor7.jpg
-- markors/markor8.jpg
-- markors/markor9.jpg
-- markors/markor10.jpg
+- topher/topher6.jpg
+- topher/topher7.jpg
+- topher/topher10.jpg
+- topher/topher9.jpg
+- topher/topher8.jpg
+- topher/topher4.jpg
+- topher/topher5.jpg
+- topher/topher2.jpg
 
 screenshot-alt:
 - Alt text for screenshot 1

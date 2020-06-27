@@ -2,18 +2,24 @@
 layout: project
 title:  "Supersonic Hair Lab"
 permalink: gqdyson
-cover_image: home-placeholder-2.jpeg
+cover_image: gqdyson/gqdyson6.jpg
 vimeo_id: 
 - 302974760
 - 303635347
 - 302975157
 screenshot:
-- home-placeholder-1.jpeg
-- home-placeholder-2.jpeg
-- home-placeholder-3.jpeg
-- home-placeholder-4.jpeg
-- home-placeholder-5.jpeg
-- home-placeholder-6.jpeg
+- gqdyson/gqdyson3.jpg
+- gqdyson/gqdyson8.jpg
+- gqdyson/gqdyson9.jpg
+- gqdyson/gqdyson10.jpg
+- gqdyson/gqdyson11.jpg
+- gqdyson/gqdyson7.jpg
+- gqdyson/gqdyson4.jpg
+- gqdyson/gqdyson2.jpg
+- gqdyson/gqdyson1.jpg
+- gqdyson/gqdyson5.jpg
+
+
 screenshot-alt:
 - Alt text for screenshot 1
 - Alt text for screenshot 2

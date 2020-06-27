@@ -1,17 +1,17 @@
 ---
 layout: project
-title:  "Michelin"
+title:  "Total Tire Management Platform"
 permalink: michelin
-cover_image: home-placeholder-2.jpeg
+cover_image: michelin/michelin1.jpg
 vimeo_id:
 - 259139951
 screenshot:
-- home-placeholder-1.jpeg
-- home-placeholder-2.jpeg
-- home-placeholder-3.jpeg
-- home-placeholder-4.jpeg
-- home-placeholder-5.jpeg
-- home-placeholder-6.jpeg
+- michelin/michelin2.jpg
+- michelin/michelin7.jpg
+- michelin/michelin5.jpg
+- michelin/michelin3.jpg
+- michelin/michelin4.jpg
+
 screenshot-alt:
 - Alt text for screenshot 1
 - Alt text for screenshot 2

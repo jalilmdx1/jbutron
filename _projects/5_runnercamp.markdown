@@ -1,17 +1,16 @@
 ---
 layout: project
-title:  "Sports Bra 101 (01:42, 02:13, 02:14)"
+title:  "Sports Bra 101"
 permalink: runnercamp
-cover_image: home-placeholder-2.jpeg
+cover_image: runnercamp/rc3.jpg
 vimeo_id:
 - 303636585
 screenshot:
-- home-placeholder-1.jpeg
-- home-placeholder-2.jpeg
-- home-placeholder-3.jpeg
-- home-placeholder-4.jpeg
-- home-placeholder-5.jpeg
-- home-placeholder-6.jpeg
+- runnercamp/rc1.jpg
+- runnercamp/rc2.jpg
+- runnercamp/rc4.jpg
+- runnercamp/rc5.jpg
+
 screenshot-alt:
 - Alt text for screenshot 1
 - Alt text for screenshot 2

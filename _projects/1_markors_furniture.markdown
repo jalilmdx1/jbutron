@@ -2,7 +2,7 @@
 layout: project
 title:  "The Blanket Series"
 permalink: markors_furniture
-cover_image: markors/markor1.jpg
+cover_image: markors/markorlogo1.jpg
 vimeo_id:
 - 303643867
 - 303643817
