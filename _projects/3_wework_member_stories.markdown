@@ -1,7 +1,7 @@
 ---
 layout: project
-title:  "WeWork Member Stories"
-permalink: weworkmemberstories
+title:  "Member Stories"
+permalink: memberstories
 cover_image: memberstories/memberstories1.jpg
 vimeo_id:
 - 335411070
@@ -11,6 +11,18 @@ screenshot:
 - memberstories/memberstories1.jpg
 - memberstories/memberstories2.jpg
 - memberstories/memberstories3.jpg
+- memberstories/memberstories4.jpg
+- memberstories/memberstories5.jpg
+- memberstories/memberstories6.jpg
+- memberstories/memberstories7.jpg
+- memberstories/memberstories8.jpg
+- memberstories/memberstories9.jpg
+- memberstories/memberstories10.jpg
+- memberstories/memberstories11.jpg
+- memberstories/memberstories12.jpg
+- memberstories/memberstories13.jpg
+- memberstories/memberstories14.jpg
+
 
 screenshot-alt:
 - Alt text for screenshot 1

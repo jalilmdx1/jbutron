@@ -1,7 +1,7 @@
 ---
 layout: text-only-page
-title: Contact
-permalink: /contact/
+title: Test
+permalink: /test/
 ---
 
 

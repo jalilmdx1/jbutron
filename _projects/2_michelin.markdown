@@ -4,7 +4,7 @@ title:  "Total Tire Management Platform"
 permalink: michelin
 cover_image: michelin/michelin1.jpg
 vimeo_id:
-- 259139951
+- 433339041
 screenshot:
 - michelin/michelin2.jpg
 - michelin/michelin7.jpg

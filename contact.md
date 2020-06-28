@@ -1,14 +1,20 @@
 ---
-layout: text-only-page
+layout: default
 title: Contact
 permalink: /contact/
 ---
 
 # Hello&Welcome
 
+
+
+![ext](jalilmdx1.github.io/assets/profilephoto1.jpg)
+![ext](/Users/Jalil/Desktop/runnercamplogo.jpg)
+
 _We cross borders every day. When leaving our house, going to work, chatting with 
 friends. Different interactions bring out different parts of us. But if we remain true to 
 ourselves, each version of us will be genuine._
+
 
 For business inquiries send me an e-mail [HERE](mailto:{{ site.email }}){:target="_blank"}.
 
