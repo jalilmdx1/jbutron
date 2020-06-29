@@ -36,4 +36,4 @@ screenshot-alt:
 Client: WeWork<br>
 Director: Multiple Directors
 <br>Production: 当下频道
-<br>C300 MK2, Sony A7S2 | Canon EF
+<br>Canon C300 MK2, Sony A7S2 | Canon EF

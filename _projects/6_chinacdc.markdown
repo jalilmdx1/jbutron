@@ -2,14 +2,14 @@
 layout: project
 title:  "E-Cigarette Risks Campaign"
 permalink: chinacdc
-cover_image: michelin/michelin2.jpg
+cover_image: cdc/cdclogo.jpg
 vimeo_id:
 - 433339438
 screenshot:
-- runnercamp/rc1.jpg
-- runnercamp/rc2.jpg
-- runnercamp/rc4.jpg
-- runnercamp/rc5.jpg
+- cdc/cdc3.jpg
+- cdc/cdc4.jpg
+- cdc/cdc2.jpg
+- cdc/cdc6.jpg
 
 screenshot-alt:
 - Alt text for screenshot 1
