@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jalil Butrón
-subtitle: Cinematographer
+subtitle: Creative Director
 email: jalilmdx1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bay Area based Creative Director
